@@ -21,18 +21,18 @@ timezone: Europe/Sofia
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: MrEddX                          # the main title
+title: Dedo Maco                          # the main title
 
-tagline: Cooking While Coding   # it will display as the sub-title
+tagline: Cooking, Not Coding!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   The simpler, the tastier!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://mreddx.github.io'
+url: 'https://dedomaco.github.io'
 
 github:
-  username: MrEddX             # change to your github username
+  username: DedoMaco             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -40,12 +40,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: MrEddX
-  email: example@doamin.com             # change to your email address
+  name: DedoMaco
+  email: dedomaco@kaoro.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/MrEddX       # change to your github homepage
+    - https://github.com/DedoMaco       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
