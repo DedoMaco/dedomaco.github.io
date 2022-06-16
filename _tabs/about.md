@@ -4,5 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Привет, другари гастрономи!
+
+Казвам се Дедо Мацо. Тук ще намерите документацията към всички вкусотийки, които се зараждат в моята глава. Нито една от публикуваните рецепти не е копирана и поставена от нечий уебсайт. Всичко е постигнато на принципите на моя усет, настроение и вдъхновение.
+
+Ако смятате, че нещо може да се подобри, пуснете един PR (Pull Request) [тук](https://github.com/DedoMaco/dedomaco.github.io).
+
+Да ви е сладко!
