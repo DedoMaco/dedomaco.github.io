@@ -1,5 +1,5 @@
 ---
-title: About
+title: За мен
 icon: fas fa-info-circle
 order: 4
 ---
