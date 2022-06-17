@@ -20,10 +20,10 @@ tabs:
 search:
   hint: търси
   cancel: Отмени
-  no_results: Опаа! Нищо не намирам.
+  no_results: Упс! Не са намерени резултати.
 
 panel:
-  lastmod: Скорошни
+  lastmod: Наскоро обновени
   trending_tags: Популярни тагове
   toc: Съдържание
 
@@ -43,17 +43,7 @@ copyright:
 meta: Създадено чрез :PLATFORM и :THEME тема.
 
 not_found:
-  statment: Еее и таз добра! Съжалявам, но на този адрес не намирам съдържание. Моля, проверете дали е изписан правилно.
-
-notification:
-  update_found: Налична е нова версия на съдържанието.
-  update: Актуализирай
-
-# ----- Posts related labels -----
-
-post:
-  written_by: Автор
-  posted: Публикувана
+  statment: Съжаляваме, но сме объркали този URL адрес или той сочи към нещо, което не съществува.
   updated: Обновена
   words: думи
   pageview_measure: преглеждания
