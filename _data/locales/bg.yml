@@ -18,12 +18,12 @@ tabs:
 
 # the text displayed in the search bar & search results
 search:
-  hint: търци
+  hint: търси
   cancel: Отмени
   no_results: Опаа! Нищо не намирам.
 
 panel:
-  lastmod: Скорошни публикации
+  lastmod: Скорошни
   trending_tags: Популярни тагове
   toc: Съдържание
 
@@ -53,8 +53,8 @@ notification:
 
 post:
   written_by: Автор
-  posted: Публикувано на
-  updated: Обновен
+  posted: Публикувана
+  updated: Обновена
   words: думи
   pageview_measure: преглеждания
   read_time:
