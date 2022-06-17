@@ -3,81 +3,81 @@
 # ----- Commons label -----
 
 layout:
-  post: Post
-  category: Category
-  tag: Tag
+  post: Публикация
+  category: Категория
+  tag: Тагове
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Home
-  categories: Categories
-  tags: Tags
-  archives: Archives
-  about: About
+  home: Начало
+  categories: Категории
+  tags: Тагове
+  archives: Архив
+  about: За мен
 
 # the text displayed in the search bar & search results
 search:
-  hint: search
-  cancel: Cancel
-  no_results: Oops! No results found.
+  hint: търци
+  cancel: Отмени
+  no_results: Опаа! Нищо не намирам.
 
 panel:
-  lastmod: Recently Updated
-  trending_tags: Trending Tags
-  toc: Contents
+  lastmod: Скорошни публикации
+  trending_tags: Популярни тагове
+  toc: Съдържание
 
 copyright:
   # Shown at the bottom of the post
   license:
-    template: This post is licensed under :LICENSE_NAME by the author.
+    template: Тази публикация е лицензирана под :LICENSE_NAME от автора.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: Some rights reserved.
+  brief: Някои права запазени.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    Освен ако не е посочено друго, публикациите в блога на този сайт са лицензирани
+    под лиценза "Creative Commons Attribution 4.0" (CC BY 4.0) от автора.
 
-meta: Powered by :PLATFORM with :THEME theme.
+meta: Създадено чрез :PLATFORM и :THEME тема.
 
 not_found:
-  statment: Съжалявам, но на този адрес не намирам съдържание. Моля, проверете дали е изписан правилно.
+  statment: Еее и таз добра! Съжалявам, но на този адрес не намирам съдържание. Моля, проверете дали е изписан правилно.
 
 notification:
-  update_found: Налична е нова версия на съдържанието.Нова версия A new version of content is available.
+  update_found: Налична е нова версия на съдържанието.
   update: Актуализирай
 
 # ----- Posts related labels -----
 
 post:
-  written_by: By
-  posted: Posted
-  updated: Updated
-  words: words
-  pageview_measure: views
+  written_by: Автор
+  posted: Публикувано на
+  updated: Обновен
+  words: думи
+  pageview_measure: преглеждания
   read_time:
-    unit: min
-    prompt: read
-  relate_posts: Further Reading
-  share: Share
+    unit: мин
+    prompt: четиво
+  relate_posts: Още за четене
+  share: Споделете
   button:
-    next: Newer
-    previous: Older
+    next: По-нови
+    previous: По-стари
     copy_code:
-      succeed: Copied!
+      succeed: Копирано!
     share_link:
-      title: Copy link
-      succeed: Link copied successfully!
+      title: Копирай линк
+      succeed: Линкът е копиран успешно!
   # pinned prompt of posts list on homepage
-  pin_prompt: Pinned
+  pin_prompt: Прикрепен
 
 # categories page
 categories:
   category_measure:
-    singular: category
-    plural: categories
+    singular: категория
+    plural: категории
   post_measure:
-    singular: post
-    plural: posts
+    singular: публикация
+    plural: публикации
