@@ -59,7 +59,7 @@ post:
   pageview_measure: преглеждания
   read_time:
     unit: мин
-    prompt: време за прочит
+    prompt: четиво
   relate_posts: Още за четене
   share: Споделете
   button:
