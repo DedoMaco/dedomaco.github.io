@@ -43,13 +43,23 @@ copyright:
 meta: Създадено чрез :PLATFORM и :THEME тема.
 
 not_found:
-  statment: Съжаляваме, но сме объркали този URL адрес или той сочи към нещо, което не съществува.
+  statment: Съжалявам, но този на този URL адрес няма налично съдържание.
+
+notification:
+  update_found: Налична е нова версия на съдържанието.
+  update: Обнови
+
+# ----- Posts related labels -----
+
+post:
+  written_by: Автор
+  posted: Публикувана
   updated: Обновена
   words: думи
   pageview_measure: преглеждания
   read_time:
     unit: мин
-    prompt: четиво
+    prompt: време за прочит
   relate_posts: Още за четене
   share: Споделете
   button:
