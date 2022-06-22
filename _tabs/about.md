@@ -34,6 +34,8 @@ order: 4
 > *"Mястото на всякакви бисквити и курабии е в коремчето, а не в браузъра!"*
 {: .prompt-danger }
 
+<br>
+
 >Статус на услугата:
 >
 > ![Ping](https://uptime.tinyserver.eu/api/badge/1/ping)
