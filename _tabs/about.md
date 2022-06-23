@@ -33,11 +33,3 @@ order: 4
 > Дедо Мацо е категоричен: <br>
 > *"Mястото на всички бисквитки и курабиики е в коремчето, а не в браузъра!"*
 {: .prompt-danger }
-
-<br>
-
->Статус на услугата:
->
-> ![Ping](https://uptime.tinyserver.eu/api/badge/1/ping)
-> ![Uptime-24](https://uptime.tinyserver.eu/api/badge/102/uptime/24) ![Uptime-30](https://uptime.tinyserver.eu/api/badge/102/uptime/720?label=30&labelSuffix=d) ![Uptime-365](https://uptime.tinyserver.eu/api/badge/102/uptime/8760?label=365&labelSuffix=d)
-{: .prompt-tip }
