@@ -6,7 +6,7 @@ order: 5
 
 
 
-| Услуга                     | Текущо състояние                              |
+| Услуга                     | Състояние                                     |
 |:---------------------------|:--------------------------------------------: |
 | https://dedomaco.github.io | ![Current](https://uptime.tinyserver.eu/api/badge/102/status?style=for-the-badge) |
 
