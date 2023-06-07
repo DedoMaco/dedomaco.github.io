@@ -17,3 +17,8 @@ order: 5
 > Дедо Мацо е категоричен: <br>
 > *"Mястото на всички бисквитки и курабиики е в коремчето, а не в браузъра!"*
 {: .prompt-danger }
+
+За да не съм голословен прилагам и резултат от проведения [Cookieserve](https://www.cookieserve.com/) онлайн тест:
+
+![Cookie-Test-by-Cookieserve](/assets/img/posts_images/about/cookies.png)
+_Тестът може да бъде повторен по всяко време на [този](https://www.cookieserve.com/scan-summary/?url=dedomaco.github.io) адрес._
