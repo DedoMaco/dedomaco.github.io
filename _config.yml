@@ -121,6 +121,8 @@ pwa:
 
 paginate: 10
 
+# Year: 2025
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
